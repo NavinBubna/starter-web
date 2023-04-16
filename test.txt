@@ -1,3 +1,0 @@
-test text file
-edit test file
-add some more text
